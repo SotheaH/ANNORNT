@@ -103,7 +103,7 @@ header {
   width: 340px;
   height: 100vh;
   overflow: visible;
-  background-color: rgba(65, 65, 65, 0.9);
+  background-color: #393e46d5;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
@@ -432,7 +432,7 @@ header .nav-menu-box ul.navigation-menu-list > li > a {
   min-height: 480px;
   width: 100%;
   height: 100%;
-  background: #242424;
+  background: #393e46,
 }
 
 .ip-header h1 {
@@ -470,7 +470,7 @@ header .nav-menu-box ul.navigation-menu-list > li > a {
 }
 
 .ip-header .ip-loader svg {
-  fill: #242424;
+  fill: #393e46;
 }
 
 .ip-header .ip-loader svg path.ip-loader-circlebg {
@@ -609,7 +609,7 @@ header .nav-menu-box ul.navigation-menu-list > li > a {
 }
 
 body {
-  background: #282828;
+  background: #393e46;
   font-family: "Barlow", sans-serif;
 }
 body.light-version {
@@ -3381,7 +3381,7 @@ footer.template-footer {
 }
 footer.template-footer div.instagram-line {
   border-top: 1px solid #2e2e2e;
-  background: #242424;
+  background: #393e46,
 }
 footer.template-footer div.instagram-line ul.insta-list {
   padding: 0;
